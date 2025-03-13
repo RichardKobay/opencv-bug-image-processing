@@ -1,2 +1,5 @@
-ipykernel
-python-dotenv
+ipykernel==6.29.5
+python-dotenv==1.0.1
+matplotlib==3.10.1
+opencv-python==4.11.0.86
+PyQt6==6.8.1
